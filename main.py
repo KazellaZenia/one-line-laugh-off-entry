@@ -9,6 +9,7 @@ from pathlib import Path
 
 # The twist lands on the last clause: the headphones work too well, and
 # the only sound left to hear is the wearer themself.
+# 93 characters: inside the gate's 1-200 window, and short for the size tie-break.
 LINE = "I bought noise-cancelling headphones to hear myself think; now all I hear is how loud I chew."
 
 
